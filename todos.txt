@@ -1,0 +1,4 @@
+oranges
+cars
+money
+trees
