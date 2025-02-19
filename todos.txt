@@ -1,6 +1,2 @@
-oranges
-cars
-money
-trees
-nice
-nice
+pearapples
+kiwi
