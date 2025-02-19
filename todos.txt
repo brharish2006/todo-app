@@ -1,2 +1,2 @@
-pearapples
-kiwi
+apple
+oranges
